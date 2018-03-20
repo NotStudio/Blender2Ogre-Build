@@ -1,0 +1,21 @@
+18:09:41: Creating resource group General
+18:09:41: Creating resource group Internal
+18:09:41: Creating resource group Autodetect
+18:09:41: Registering ResourceManager for type Mesh
+18:09:41: Registering ResourceManager for type Material
+18:09:41: Registering ResourceManager for type Skeleton
+18:09:41: XMLSkeletonSerializer: reading XML data from C:\Users\skinn\Desktop\UNI\Blender\Personajes\Ra.skeleton.xml...
+18:09:41: XMLSkeletonSerializer: Reading Bones name...
+18:09:41: XMLSkeletonSerializer: Reading Hierarchy data...
+18:09:41: XMLSkeletonSerializer: Reading Bones data...
+18:09:41: XMLSkeletonSerializer: Reading Animations data...
+18:09:41: Animation: nom: my_animation et longueur: 10.375
+18:09:42: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+18:09:42: Exporting bones..
+18:09:42: Bones exported.
+18:09:42: Exporting animations, count=1
+18:09:42: Exporting animation: my_animation
+18:09:42: Animation exported.
+18:09:42: Unregistering ResourceManager for type Skeleton
+18:09:42: Unregistering ResourceManager for type Material
+18:09:42: Unregistering ResourceManager for type Mesh
